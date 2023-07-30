@@ -5,4 +5,4 @@ specific product details and contact information and too provided.
 
 
 
-Live Link: https://abhinavs2001.github.io/E-Commerce-Website/account.html
+Live Link: https://abhinavs2001.github.io/E-Commerce-Website/index.html
